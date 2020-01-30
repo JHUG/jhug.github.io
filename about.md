@@ -13,4 +13,6 @@ permalink: /about/
 
 [Slack - jhug.slack.com](https://jhug.slack.com)
 
+[Twitter @jhug](https://twitter.com/jhug)
+
 [Google Group](https://groups.google.com/forum/#!forum/jhug)
