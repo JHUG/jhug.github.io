@@ -10,5 +10,6 @@ permalink: /presentations/
 Μπορείτε να βρειτε το υλικό και τις παρουσιάσεις από τα διάφορα meet-up που εχει διοργανώσει κατά καιρούς το JHUG στα παρακάτω link:
 
 [Βίντεο](https://vimeo.com/javahellenicusergroup)
+
 [Παρουσιάσεις](https://github.com/JHUG/JHUG-General-Resources)
 
