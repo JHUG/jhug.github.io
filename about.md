@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Σχετικά - Επικοινωνία
 permalink: /about/
 ---
 ### Ιστορία
@@ -16,3 +16,5 @@ permalink: /about/
 [Twitter @jhug](https://twitter.com/jhug)
 
 [Google Group](https://groups.google.com/forum/#!forum/jhug)
+
+Η περισσότερη συζήτηση γίνεται στο Slack. Για να μπείτε, ζητήστε πρόσκληση στο email μας.
