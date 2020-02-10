@@ -3,7 +3,7 @@ title: 'JHUG event - March 2017 #jhug #java'
 date: 2017-02-16T18:29:34+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=494
+guid: https://www.jhug.gr/?p=494
 permalink: /archives/494
 categories:
   - community

@@ -54,7 +54,7 @@ At the meetup page, [here](https://www.meetup.com/Java-Hellenic-User-Group/event
 
 We are looking forward to our next meetup on 3 December. Details will be announced in our official channels. Stay tuned.
 
-Finally we would like [again](http://www.jhug.gr/archives/554) to thank [SoftConf](http://softconf.eu/) and [Voxxed Days Athens](https://voxxeddays.com/athens/) for the donation of a wireless Shure microphone that we use to record the questions of the audience. Such acts are a great boost for local meetups.
+Finally we would like [again](https://www.jhug.gr/archives/554) to thank [SoftConf](http://softconf.eu/) and [Voxxed Days Athens](https://voxxeddays.com/athens/) for the donation of a wireless Shure microphone that we use to record the questions of the audience. Such acts are a great boost for local meetups.
 
 # Join JHUG
 

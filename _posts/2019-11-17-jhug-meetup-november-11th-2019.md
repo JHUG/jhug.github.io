@@ -6,7 +6,7 @@ layout: post
 categories:
   - java
 ---
-Την περασμένη Δευτέρα κάναμε τη δεύτερη μας εκδήλωση για φέτος που ήταν και το πρώτο meetup εφόσον η πρώτη εκδήλωση ένα workshop για το [quarkus](http://www.jhug.gr/archives/627).
+Την περασμένη Δευτέρα κάναμε τη δεύτερη μας εκδήλωση για φέτος που ήταν και το πρώτο meetup εφόσον η πρώτη εκδήλωση ένα workshop για το [quarkus](https://www.jhug.gr/kai-tora-kati-entelos-diaforetiko/).
 
 Το meetup έγινε στην πολύ όμορφη αίθουσα του [Code.Hub](https://www.codehub.gr/) στη Λεωφόρο Αλεξάνδρας. Αυτή τη φορά είχαμε χορηγούς την [Nokia](https://www.nokia.com/networks/) και το [Code.Hub](https://www.codehub.gr/) που μας βοήθησαν με την προβολή του meetup, την αίθουσα, το networking και πρόσφεραν και τα κεράσματα σε όσους έλαβαν μέρος.
 
