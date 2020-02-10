@@ -11,7 +11,7 @@ categories:
 tags:
   - jhug
 ---
-<img class="aligncenter" alt="" src="http://4.bp.blogspot.com/-lkOZOl0cGEw/Ulq1OF7EW6I/AAAAAAAABng/raM31arxrFI/s1600/photo+2.JPG" width="500" height="500" />
+<img class="aligncenter" alt="" src="https://4.bp.blogspot.com/-lkOZOl0cGEw/Ulq1OF7EW6I/AAAAAAAABng/raM31arxrFI/s1600/photo+2.JPG" width="500" height="500" />
 
 &nbsp;
 
