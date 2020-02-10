@@ -1,11 +1,8 @@
 ---
-id: 165
-title: 'JHUG Meetup &#8211; 12 Oct 2013 &#8211; Athens Colabworkspace #jhug #meetup #java'
+title: 'JHUG Meetup - 12 Oct 2013 - Athens Colabworkspace #jhug #meetup #java'
 date: 2013-09-21T16:52:03+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=165
-permalink: /archives/165
 categories:
   - community
   - jhug

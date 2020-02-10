@@ -1,11 +1,8 @@
 ---
-id: 637
 title: JHUG meetup November 11th 2019
 date: 2019-11-17T20:46:28+02:00
 author: Spiros Anastasopoulos
 layout: post
-guid: http://www.jhug.gr/?p=637
-permalink: /archives/637
 categories:
   - java
 ---
@@ -47,7 +44,7 @@ categories:
 
 Η παρουσίαση είχε 2 μέρη.
 
-Το πρώτο θα μπορούσε να έχει τίτλο &#8220;Όλα όσα θέλατε να μάθετε για το CI pipeline&#8221;. Πραγματικά παρουσίασε το ιστορικό της εξέλιξης του, την αναγκαιότητα του και πολλά patterns καλής χρήσης και ομοίως anti-patterns κακής. Έκανε αναφορά σε όλα τα σχεδιαστικά θέματα ενός CI pipeline όπως κόστος VMs, χρόνος εκτέλεσης, παράλληλη εκτέλεση των tests, αξιοπιστία των αποτελεσμάτων, flaky tests και πολλά άλλα.
+Το πρώτο θα μπορούσε να έχει τίτλο "Όλα όσα θέλατε να μάθετε για το CI pipeline". Πραγματικά παρουσίασε το ιστορικό της εξέλιξης του, την αναγκαιότητα του και πολλά patterns καλής χρήσης και ομοίως anti-patterns κακής. Έκανε αναφορά σε όλα τα σχεδιαστικά θέματα ενός CI pipeline όπως κόστος VMs, χρόνος εκτέλεσης, παράλληλη εκτέλεση των tests, αξιοπιστία των αποτελεσμάτων, flaky tests και πολλά άλλα.
 
 Το δεύτερο μέρος περιείχε τη λύση που δώσανε στα παραπάνω θέματα στα projects που συμμετέχει. Παρουσίασε το CI pipeline της [3scale](https://www.3scale.net/) και έδειξε τα πλεονεκτήματα και τα μειονεκτήματα του.
 
@@ -60,10 +57,10 @@ categories:
 ## Join JHUG
 
 Μπορείτε να μαθαίνετε τα νέα του JHUG, να συμμετέχετε και να ανταλλάξετε ιδέες μέσα από τα κανάλια μας:  
-&#8211; [Slack](https://jhug.slack.com)  
-&#8211; [Twitter](https://twitter.com/jhug)  
-&#8211; [Meetup](https://www.meetup.com/Java-Hellenic-User-Group)  
-&#8211; [Blog](https://www.jhug.gr)  
-&#8211; [Vimeo](https://vimeo.org/javahellenicusergroup)
+- [Slack](https://jhug.slack.com)  
+- [Twitter](https://twitter.com/jhug)  
+- [Meetup](https://www.meetup.com/Java-Hellenic-User-Group)  
+- [Blog](https://www.jhug.gr)  
+- [Vimeo](https://vimeo.org/javahellenicusergroup)
 
 Τα νέα για τα meetup και τις άλλες εκδηλώσεις δημοσιεύονται σε όλα τα κανάλια αλλά οι ενδιαφέρουσες συζητήσεις είναι στο slack. Αν δεν είσαστε εκεί, ζητήστε πρόσκληση.

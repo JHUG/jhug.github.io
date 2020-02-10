@@ -1,11 +1,8 @@
 ---
-id: 627
 title: Και τώρα κάτι εντελώς διαφορετικό
 date: 2019-10-23T23:03:57+02:00
 author: Spiros Anastasopoulos
 layout: post
-guid: http://www.jhug.gr/?p=627
-permalink: /archives/627
 categories:
   - java
 ---

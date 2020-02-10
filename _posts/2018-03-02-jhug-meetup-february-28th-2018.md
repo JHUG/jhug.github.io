@@ -1,11 +1,8 @@
 ---
-id: 529
 title: JHUG meetup February 28th 2018
 date: 2018-03-02T23:48:36+02:00
 author: Markos Fragkakis
 layout: post
-guid: http://www.jhug.gr/?p=529
-permalink: /archives/529
 categories:
   - java
 ---
@@ -16,7 +13,7 @@ After this warm welcome the organizers Thomas and Spyros took the word to motiva
 **Thomas**
 
 <p style="text-align: left;">
-  <em>I want you to speak about subjects you don&#8217;t know anything about but you find interesting and you are curious. Do some research, experiment a bit and come to give a talk. I am sure it will be very good.</em>
+  <em>I want you to speak about subjects you don't know anything about but you find interesting and you are curious. Do some research, experiment a bit and come to give a talk. I am sure it will be very good.</em>
 </p>
 
 **Spyros**
@@ -51,7 +48,7 @@ Kotlin is definitely a project to track and this talk by Antonis did a great job
 
 This is one of the best parts of every meetup. A break during the two talks for pizza and beers kindly offered by our host Advantage FSE. There was a full round of networking to meet other JHUG members and talk about interesting debugging stories, production failures, upcoming technologies, vim vs emacs etc For this meetup the topic was Kotlin and how Java/Scala/Ruby/Awk does a better job 🙂
 
-**Istio &#8211; Service mesh**
+**Istio - Service mesh**
 
 The second talk was delivered by [Georgios Andrianakis](https://www.linkedin.com/in/georgios-andrianakis-71305815/) of RedHat. He chose to present [Istio](https://istio.io/) a new and trending technology which most attendees were not acquainted with. The talk was intended for newcomers and it was also a tutorial for service meshes in general.
 

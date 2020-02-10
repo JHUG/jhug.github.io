@@ -1,11 +1,8 @@
 ---
-id: 405
 title: 'NetBeans Days Athens 17-18 April 2015 #netbeans #athens'
 date: 2015-03-19T10:56:43+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=405
-permalink: /archives/405
 categories:
   - community
 ---

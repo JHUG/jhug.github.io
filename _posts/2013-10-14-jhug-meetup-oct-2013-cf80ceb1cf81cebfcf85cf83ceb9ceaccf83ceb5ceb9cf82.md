@@ -1,11 +1,8 @@
 ---
-id: 177
-title: 'JHUG Meetup Oct 2013 &#8211; Παρουσιάσεις #jhug'
+title: 'JHUG Meetup Oct 2013 - Παρουσιάσεις #jhug'
 date: 2013-10-14T08:37:50+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=177
-permalink: /archives/177
 categories:
   - jhug
 tags:

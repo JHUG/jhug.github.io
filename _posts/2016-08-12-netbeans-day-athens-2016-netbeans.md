@@ -1,11 +1,8 @@
 ---
-id: 474
 title: 'NetBeans Day Athens 2016 #netbeans'
 date: 2016-08-12T15:20:08+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=474
-permalink: /archives/474
 categories:
   - community
 ---

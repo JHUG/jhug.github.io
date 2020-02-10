@@ -1,11 +1,8 @@
 ---
-id: 554
 title: Παρουσιάσεις και βιντεο από ομιλίες
 date: 2018-10-13T11:41:47+02:00
 author: Kostis Kapelonis
 layout: post
-guid: http://www.jhug.gr/?p=554
-permalink: /archives/554
 categories:
   - community
   - jhug

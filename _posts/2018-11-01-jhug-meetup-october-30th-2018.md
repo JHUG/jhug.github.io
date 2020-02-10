@@ -1,11 +1,8 @@
 ---
-id: 561
 title: JHUG meetup October 30th 2018
 date: 2018-11-01T01:05:32+02:00
 author: Spiros Anastasopoulos
 layout: post
-guid: http://www.jhug.gr/?p=561
-permalink: /archives/561
 categories:
   - java
 tags:
@@ -24,23 +21,23 @@ And now the major part, the talks.
 
 # Getting (a bit) familiar with Data Science – [Ioannis Foukarakis](https://www.linkedin.com/in/ifoukarakis) – [Slides](https://github.com/JHUG/JHUG-General-Resources/blob/master/presentations/2018/10-October/Getting%20(a%20bit)%20familiar%20with%20Data%20Science.pdf)
 
-The first talk was by Ioannis Foukarakis a senior engineer at [Yilu](https://yiluhub.com/) . He decided to make a introductory talk to the topic to lay the foundations for it. He explained what is data science, what is not data science, common traps and pitfalls. Then he presented an application, a spam filter, and how he attacked the problem as a data scientist and the solution he devised using Apache Spark. Finally he concluded with some clarifications about the vocabulary of the field like machine learning, supervised &#8211; unsupervised learning, deep learning etc. It was a very good and well paced talk that certainly answered many questions about data science.
+The first talk was by Ioannis Foukarakis a senior engineer at [Yilu](https://yiluhub.com/) . He decided to make a introductory talk to the topic to lay the foundations for it. He explained what is data science, what is not data science, common traps and pitfalls. Then he presented an application, a spam filter, and how he attacked the problem as a data scientist and the solution he devised using Apache Spark. Finally he concluded with some clarifications about the vocabulary of the field like machine learning, supervised - unsupervised learning, deep learning etc. It was a very good and well paced talk that certainly answered many questions about data science.
 
 This talk was exactly what JHUG is about: Share knowledge, good will and challenges.
 
 
 
-# Java is still free &#8211; [Spyros Anastasopoulos](https://www.linkedin.com/in/anastasop/) &#8211; [Slides](https://github.com/JHUG/JHUG-General-Resources/blob/master/presentations/2018/10-October/JavaLicense.pdf)
+# Java is still free - [Spyros Anastasopoulos](https://www.linkedin.com/in/anastasop/) - [Slides](https://github.com/JHUG/JHUG-General-Resources/blob/master/presentations/2018/10-October/JavaLicense.pdf)
 
-The second talk was a lightning one and lasted about 10 minutes including the Q&A sessions. The topic was the [new commercial license](https://blogs.oracle.com/java-platform-group/oracle-jdk-releases-for-java-11-and-later) of the JDK by Oracle and the confusion and controversy it has generated among the users. The talk was like a journalist&#8217;s article gathering facts from many sources on the internet. The slides contain the most important references and the reader should consult them to form his own opinion on the issue. For those who prefer to see front pages and not dig deep in the news just one hint: Follow the [AdoptJDK](https://adoptopenjdk.net/) project.
+The second talk was a lightning one and lasted about 10 minutes including the Q&A sessions. The topic was the [new commercial license](https://blogs.oracle.com/java-platform-group/oracle-jdk-releases-for-java-11-and-later) of the JDK by Oracle and the confusion and controversy it has generated among the users. The talk was like a journalist's article gathering facts from many sources on the internet. The slides contain the most important references and the reader should consult them to form his own opinion on the issue. For those who prefer to see front pages and not dig deep in the news just one hint: Follow the [AdoptJDK](https://adoptopenjdk.net/) project.
 
 Lightning talks are not frequent in JHUG but this need not be the case. A lightning talk is very easy to prepare and deliver. Many large conferences have sessions for lightning talks and they devote a window of an hour to 5-6 of them. It would be interesting to try something like that in a following JHUG meetup. The submission window for the next meetup is open and accepts lightning talks.
 
-# Notes on Java security &#8211; [Dimitris Glynos](https://twitter.com/dfunc) &#8211; [Slides](https://github.com/JHUG/JHUG-General-Resources/blob/master/presentations/2018/10-October/notes-java-sec.pdf)
+# Notes on Java security - [Dimitris Glynos](https://twitter.com/dfunc) - [Slides](https://github.com/JHUG/JHUG-General-Resources/blob/master/presentations/2018/10-October/notes-java-sec.pdf)
 
 The third and final talk was about Java security. It was delivered by Dimitris Glynos of [Census Labs](https://census-labs.com/) a company that provides IT security services. One of their services is source code audits and he presented to us some of his experience with Java. He presented security holes originated by bad exception handling, race conditions, insecure APIs, insecure serialization of objects and insecure third party components. He introduced each case as a Q&A game with the audience and then presented the detail of the problem and potential solutions. Both the pace of the talk and the quality of the material made this talk very appealing to the audience. The slides are also very well written and will repay study.
 
-Security is a bit weird. You think you have a secure system, then someone shows you a hole and even it is in front of your eyes you still can&#8217;t believe how such a thing was introduced in the code base. That talk helped us to start looking not just for bugs but for security holes. The difference is not subtle, it is important:
+Security is a bit weird. You think you have a secure system, then someone shows you a hole and even it is in front of your eyes you still can't believe how such a thing was introduced in the code base. That talk helped us to start looking not just for bugs but for security holes. The difference is not subtle, it is important:
 
   * **Bug**: A user does something unexpected and **crashes your application**
   * **Hole**: A user does something unexpected and it is **no longer your application**

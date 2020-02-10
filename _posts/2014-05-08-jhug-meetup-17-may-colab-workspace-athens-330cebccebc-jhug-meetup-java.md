@@ -1,11 +1,8 @@
 ---
-id: 310
-title: 'JHUG Meetup &#8211; 17 May &#8211; Colab Workspace Athens &#8211; 3:30μμ #jhug #meetup #java'
+title: 'JHUG Meetup - 17 May - Colab Workspace Athens - 3:30μμ #jhug #meetup #java'
 date: 2014-05-08T20:37:00+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=310
-permalink: /archives/310
 categories:
   - java
   - jhug

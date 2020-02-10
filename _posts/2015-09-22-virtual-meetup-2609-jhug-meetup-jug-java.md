@@ -1,11 +1,8 @@
 ---
-id: 433
 title: 'Virtual Meetup 26/09 #jhug #meetup #jug #java'
 date: 2015-09-22T09:21:48+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=433
-permalink: /archives/433
 categories:
   - community
   - jhug

@@ -1,11 +1,8 @@
 ---
-id: 535
 title: Meetup την Πέμπτη 27 Σεπτεμβρίου στο The Hub
 date: 2018-09-07T13:31:54+02:00
 author: Markos Fragkakis
 layout: post
-guid: http://www.jhug.gr/?p=535
-permalink: /archives/535
 categories:
   - java
 ---

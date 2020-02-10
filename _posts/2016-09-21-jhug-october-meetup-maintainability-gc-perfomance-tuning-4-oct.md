@@ -1,11 +1,8 @@
 ---
-id: 477
-title: 'JHUG October Meetup &#8211; Maintainability / GC Perfomance Tuning &#8211; 4 Oct'
+title: 'JHUG October Meetup - Maintainability / GC Perfomance Tuning - 4 Oct'
 date: 2016-09-21T12:44:13+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=477
-permalink: /archives/477
 categories:
   - jhug
 ---

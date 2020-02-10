@@ -1,11 +1,8 @@
 ---
-id: 483
 title: 'JHUG December 2016 – Meetup- Links and Vids'
 date: 2016-12-27T09:13:11+02:00
 author: Kostis Kapelonis
 layout: post
-guid: http://www.jhug.gr/?p=483
-permalink: /archives/483
 categories:
   - java
 ---

@@ -1,6 +1,5 @@
 ---
-id: 494
-title: 'JHUG event &#8211; March 2017 #jhug #java'
+title: 'JHUG event - March 2017 #jhug #java'
 date: 2017-02-16T18:29:34+02:00
 author: papo
 layout: post
@@ -34,15 +33,15 @@ The level of this presentation is introductory, but the topic is not. Most peopl
 
 **Πρόγραμμα**
 
-• 18.00 &#8211; Προσέλευση/ έλεγχος εισόδου
+• 18.00 - Προσέλευση/ έλεγχος εισόδου
 
-• 18.15 &#8211; 19.15 Ομιλία για refactoring
+• 18.15 - 19.15 Ομιλία για refactoring
 
-• 19.15 &#8211; 19.30 &#8211; Ομιλία χορηγού
+• 19.15 - 19.30 - Ομιλία χορηγού
 
-• 19:30 &#8211; 19:45 Πίτσα/πηγαδάκια/networking
+• 19:30 - 19:45 Πίτσα/πηγαδάκια/networking
 
-• 20.00 &#8211; 21.00 Ομιλία για Microbenchmarks
+• 20.00 - 21.00 Ομιλία για Microbenchmarks
 
 Για λόγους ασφαλείας, παρακαλούμε κρατάτε μία ταυτότητα για την εισοδο.
 

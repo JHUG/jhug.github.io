@@ -1,11 +1,8 @@
 ---
-id: 128
-title: 'JavaEE7 launch event  &#038;  Java Virtual Developr Day &#8211; webcasts..stay java tuned τον Ιούνιο!'
+title: 'JavaEE7 launch event - Java Virtual Developr Day - webcasts..stay java tuned τον Ιούνιο!'
 date: 2013-05-29T19:51:15+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=128
-permalink: /archives/128
 categories:
   - java
 ---

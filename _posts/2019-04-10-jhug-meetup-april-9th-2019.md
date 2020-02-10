@@ -1,11 +1,8 @@
 ---
-id: 604
 title: JHUG meetup April 9th 2019
 date: 2019-04-10T23:19:25+02:00
 author: Spiros Anastasopoulos
 layout: post
-guid: http://www.jhug.gr/?p=604
-permalink: /archives/604
 categories:
   - java
 ---
@@ -57,9 +54,9 @@ The talk was a live commentary on a revised edition of a popular [blog post](htt
                                                                 
                                                                 Second, a runtime environment based on [GraalVM](https://www.graalvm.org/) which powerups your application and gives you smaller memory footprint, very fast startup times, live reloading of code and configuration and if you choose, a native executable. Note that quarkus applications can still run on the JVM if you choose but in this case you lose many of quarkus benefits.
                                                                 
-                                                                Of course as you understand quarkus is much more than assembling a jar from the above frameworks and running it on GraalVM. It does some hard work both during the build time and during the runtime to ensure that you get the benefits of the platform. During build time it does static code analysis to eliminate dead code, remove unused classes, reduce reflection calls, all of which reduce the memory footprint and fasten application startup. During runtime it does not do aggressive classloading or reflection or dynamic proxied or use agents like JMX as this incurs additional costs that are maybe insignificant for in house deployments but are very expensive for cloud deployments. In a nutshell you must write code the quarkus way. If you use the supported frameworks it is very easy and straightforward. If you don&#8217;t then you must either wait till they are supported or do some good code reviews to make your app quarkus ready.
+                                                                Of course as you understand quarkus is much more than assembling a jar from the above frameworks and running it on GraalVM. It does some hard work both during the build time and during the runtime to ensure that you get the benefits of the platform. During build time it does static code analysis to eliminate dead code, remove unused classes, reduce reflection calls, all of which reduce the memory footprint and fasten application startup. During runtime it does not do aggressive classloading or reflection or dynamic proxied or use agents like JMX as this incurs additional costs that are maybe insignificant for in house deployments but are very expensive for cloud deployments. In a nutshell you must write code the quarkus way. If you use the supported frameworks it is very easy and straightforward. If you don't then you must either wait till they are supported or do some good code reviews to make your app quarkus ready.
                                                                 
-                                                                After the presentation Giorgos gave a live demo that demonstrated build times, startup times, live reloading, native executables and finally support of jpa. It was a very good demo as he was very confident in quarkus and was eager to ask the audience &#8220;what do you want to run next?&#8221;
+                                                                After the presentation Giorgos gave a live demo that demonstrated build times, startup times, live reloading, native executables and finally support of jpa. It was a very good demo as he was very confident in quarkus and was eager to ask the audience "what do you want to run next?"
                                                                 
                                                                 The Q&A session was about quarkus support, mostly how well it supports spring, a framework that heavily relies on reflection and dynamic proxies and how ready is quarkus for production. Giorgos suggested adoption of quarkus, it is very mature, not production ready yet but it is actively developed and it will be ready for production soon. As for spring support it is improving, some of its parts work fine, but the full framework is not quarkus ready yet.
                                                                 

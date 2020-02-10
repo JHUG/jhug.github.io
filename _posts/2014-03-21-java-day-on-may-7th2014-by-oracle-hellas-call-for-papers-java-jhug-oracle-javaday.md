@@ -1,11 +1,8 @@
 ---
-id: 270
-title: 'Java Day  on May 7th,2014 by Oracle Hellas &#8211; Call for Papers #java #jhug #oracle #javaday'
+title: 'Java Day  on May 7th,2014 by Oracle Hellas - Call for Papers #java #jhug #oracle #javaday'
 date: 2014-03-21T09:11:41+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=270
-permalink: /archives/270
 categories:
   - java
   - jhug
@@ -30,27 +27,27 @@ categories:
       </p>
       
       <p>
-        &#8211; Existing and upcoming Java EE technology JSRs and implementations
+        - Existing and upcoming Java EE technology JSRs and implementations
       </p>
       
       <p>
-        &#8211; Cool stuff that extends Java EE in new and interesting ways
+        - Cool stuff that extends Java EE in new and interesting ways
       </p>
       
       <p>
-        &#8211; Case studies using Java EE 5, Java EE 6 or Java EE 7 (including migration from other technologies)
+        - Case studies using Java EE 5, Java EE 6 or Java EE 7 (including migration from other technologies)
       </p>
       
       <p>
-        &#8211; Technical Case studies about projects implemented based on Java Technology in the Private and Public Sector
+        - Technical Case studies about projects implemented based on Java Technology in the Private and Public Sector
       </p>
       
       <p>
-        &#8211; Academic work based on Java Technology<br /> &#8211; Best practices for using Java EE technologies
+        - Academic work based on Java Technology<br /> - Best practices for using Java EE technologies
       </p>
       
       <p>
-        &#8211; Emerging trends in the ecosystem such as mobile, HTML5, caching, complex event processing, modularity, and the like
+        - Emerging trends in the ecosystem such as mobile, HTML5, caching, complex event processing, modularity, and the like
       </p>
     </div>
   </div>
@@ -60,7 +57,7 @@ categories:
   <div>
     <div>
       <p>
-        &#8211; Insightful research, development, and analysis work in server-side Java
+        - Insightful research, development, and analysis work in server-side Java
       </p>
       
       <p>

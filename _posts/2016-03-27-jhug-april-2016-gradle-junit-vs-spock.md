@@ -1,11 +1,8 @@
 ---
-id: 463
-title: 'JHUG April 2016 &#8211; Gradle / Junit vs Spock'
+title: 'JHUG April 2016 - Gradle / Junit vs Spock'
 date: 2016-03-27T13:51:23+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=463
-permalink: /archives/463
 categories:
   - java
 ---

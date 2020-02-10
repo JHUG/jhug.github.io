@@ -1,11 +1,8 @@
 ---
-id: 441
-title: 'JHUG Virtual Meetup 10/10/2015 &#8211; 16:00 &#8211; Google Hangout'
+title: 'JHUG Virtual Meetup 10/10/2015 - 16:00 - Google Hangout'
 date: 2015-09-30T15:19:57+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=441
-permalink: /archives/441
 categories:
   - community
   - jhug

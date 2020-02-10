@@ -1,11 +1,8 @@
 ---
-id: 510
-title: 'JHUG event &#8211; November 2017'
+title: 'JHUG event - November 2017'
 date: 2017-11-04T00:11:39+02:00
 author: Markos Fragkakis
 layout: post
-guid: http://www.jhug.gr/?p=510
-permalink: /archives/510
 categories:
   - java
 ---
@@ -15,25 +12,25 @@ categories:
 
 Οι ομιλίες:
 
-Using JCache to speed up your apps &#8211; Vassilis Bekiaris ([Linkedin](https://www.linkedin.com/in/vassilis-bekiaris-88a7003/))
+Using JCache to speed up your apps - Vassilis Bekiaris ([Linkedin](https://www.linkedin.com/in/vassilis-bekiaris-88a7003/))
 
 JCache (JSR-107) is the standardized way to temporarily cache data in your Java apps. In this talk, we will explore basic caching concepts, introduce the JCache API and go through sample caching use cases covering basic usage and integration scenarios.
 
-Going to production with Docker, Kubernetes and Java microservices &#8211; Anestis Georgiadis ([Linkedin](https://www.linkedin.com/in/mranest/))
+Going to production with Docker, Kubernetes and Java microservices - Anestis Georgiadis ([Linkedin](https://www.linkedin.com/in/mranest/))
 
 An overview of the journey to production for a system being built from the bottom up as cloud-native. We will be presenting architectural choices for the Java stack, development tooling based on Docker, the value of Kubernetes and things to consider overall before embarking on a similar journey.
 
 Ενδεικτικό πρόγραμμα
 
-• 18.30 &#8211; Προσέλευση/ έλεγχος εισόδου
+• 18.30 - Προσέλευση/ έλεγχος εισόδου
 
-• 19.00 &#8211; 19.15 Παρουσίαση χορηγου
+• 19.00 - 19.15 Παρουσίαση χορηγου
 
-• 19.15 &#8211; 20.15 &#8211; Ομιλία για JCache
+• 19.15 - 20.15 - Ομιλία για JCache
 
-• 20.15 &#8211; 20.30 Πίτσα/μπυρα/πηγαδάκια/networking
+• 20.15 - 20.30 Πίτσα/μπυρα/πηγαδάκια/networking
 
-• 20.30 &#8211; 21.30 Ομιλία για Docker, Kubernetes και Java Microservices
+• 20.30 - 21.30 Ομιλία για Docker, Kubernetes και Java Microservices
 
 Κρατάτε μαζί σας την ταυτότητα σας για λόγους ασφαλείας στην εισοδο.
 

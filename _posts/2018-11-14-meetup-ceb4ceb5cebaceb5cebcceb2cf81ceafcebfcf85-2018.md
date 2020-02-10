@@ -1,11 +1,8 @@
 ---
-id: 574
 title: Meetup Δεκεμβρίου 2018
 date: 2018-11-14T23:18:52+02:00
 author: Markos Fragkakis
 layout: post
-guid: http://www.jhug.gr/?p=574
-permalink: /archives/574
 categories:
   - java
 ---

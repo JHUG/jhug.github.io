@@ -1,11 +1,8 @@
 ---
-id: 195
-title: 'JavaOne 2013 Sessions &#8211; δωρεάν #jhug #java #javaone'
+title: 'JavaOne 2013 Sessions - δωρεάν #jhug #java #javaone'
 date: 2013-10-30T08:43:50+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=195
-permalink: /archives/195
 categories:
   - java
   - jhug

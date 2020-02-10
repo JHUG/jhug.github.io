@@ -1,11 +1,8 @@
 ---
-id: 66
 title: Μοιράσου την άποψη σου για τα Java βιβλία σου
 date: 2013-03-08T15:36:16+02:00
 author: papo
 layout: post
-guid: http://www.jhug.gr/?p=66
-permalink: /archives/66
 categories:
   - book
 ---
