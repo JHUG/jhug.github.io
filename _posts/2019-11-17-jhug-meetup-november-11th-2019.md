@@ -61,6 +61,6 @@ categories:
 - [Twitter](https://twitter.com/jhug)  
 - [Meetup](https://www.meetup.com/Java-Hellenic-User-Group)  
 - [Blog](https://www.jhug.gr)  
-- [Vimeo](https://vimeo.org/javahellenicusergroup)
+- [Vimeo](https://vimeo.com/javahellenicusergroup)
 
 Τα νέα για τα meetup και τις άλλες εκδηλώσεις δημοσιεύονται σε όλα τα κανάλια αλλά οι ενδιαφέρουσες συζητήσεις είναι στο slack. Αν δεν είσαστε εκεί, ζητήστε πρόσκληση.
