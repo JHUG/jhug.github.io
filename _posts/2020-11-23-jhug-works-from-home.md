@@ -1,4 +1,4 @@
-﻿---
+---
 title: JHUG works from home
 date: 2020-11-23T10:00:00+02:00
 author: Spiros Anastasopoulos
