@@ -1,5 +1,14 @@
-Hello
-
+---
+title: JHUG 29-Dec-2020 virtual meetup
+date: 2020-12-30T18:00:00+02:00
+author: Spiros Anastasopoulos
+layout: post
+categories:
+  - java
+tags:
+  - community
+  - jhug java meetup
+---
 The year is coming to end and what a better way to celebrate than a meetup with a lot of java. Indeed we scheduled our last meetup for 2020 on the 29th of December and we really enjoyed it.
 
 Before we go on to recap the meetup, let's say a few words on how we organize and announce our virtual meetups. 2020 was the year of the covid-19 pandemic. All outdoor activities were suspended including conferences and meetups. Under these conditions we stayed active in our [slack channel](https://jhug.slack.com) and we created a [newsletter](http://tinyletter.com/jhug) for individuals who did not want to join yet another slack channel. The virtual meetups were organized exclusively in slack. From there, from the active community and the discussion threads we were _mining_ speakers and subjects for presentations. Afterwards it was a simple step to setup a date, a google meet link and publish it on slack.
