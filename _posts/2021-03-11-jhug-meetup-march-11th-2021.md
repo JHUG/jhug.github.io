@@ -9,7 +9,7 @@ tags:
   - community
   - jhug java meetup
 ---
-This Thursday 31/03 we had the first virtual meetup of 2021. We were happy to meet once again, although virtually from our homes, and discuss interesting topics about java. The covid-19 lockdown has been going on for almost a year and it will continue for some more months for sure. However JHUG is active and we keep having meetups and we would like to thank our members for their patience and eagerness to participate in the events.
+This Thursday 11/03 we had the first virtual meetup of 2021. We were happy to meet once again, although virtually from our homes, and discuss interesting topics about java. The covid-19 lockdown has been going on for almost a year and it will continue for some more months for sure. However JHUG is active and we keep having meetups and we would like to thank our members for their patience and eagerness to participate in the events.
 
 Now, lets go to the talks. The latest meetup had 3.
 
