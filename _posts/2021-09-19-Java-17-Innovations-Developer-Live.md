@@ -11,6 +11,8 @@ tags:
   - community
 ---
 
+>A post by JHUG member [Ioanna Katsanou](https://www.linkedin.com/in/ioannakatsanou/) who attended the Java Innovations event for the release of Java 17 and sent us her impressions. Enjoy!
+
 I attended recently, on September 16th, the Java Innovations all day event concerning Oracle’s new java 17 version and would like to share my experience about it.
 
 In the beginning a welcome panel featured a brief introduction to the new JDK, and presented a small preview to their plans for the future.
